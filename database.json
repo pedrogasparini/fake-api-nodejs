@@ -35,6 +35,26 @@
       "password": "j123",
       "createdAt": 1721324918485,
       "modifiedAt": 1721324918485
+    },
+    {
+      "id": 5,
+      "name": "Maria",
+      "lastName": "Sosa",
+      "username": "maria999",
+      "password": "m123",
+      "userType": "client",
+      "createdAt": 1721326286346,
+      "modifiedAt": 1721326286346
+    },
+    {
+      "id": 6,
+      "name": "Marta",
+      "lastName": "Gomez",
+      "username": "marta123",
+      "password": "m123",
+      "userType": "client",
+      "createdAt": 1721412442725,
+      "modifiedAt": 1721412442725
     }
   ],
   "products": [
@@ -44,7 +64,7 @@
       "price": 3000,
       "stock": 40,
       "category": "primeros auxilios",
-      "image": "https://www.google.com/imgres?q=gasas%20&imgurl=http%3A%2F%2Fwww.veteris.mx%2Fcdn%2Fshop%2Fproducts%2Fgasa-no-esteril-protec-20x24_grande.jpg%3Fv%3D1530224018&imgrefurl=https%3A%2F%2Fwww.veteris.mx%2Fproducts%2Fgasa-no-esteril-medida-10x10-tejido-28-x-24&docid=F6jK8PbpaMJCcM&tbnid=r7Z6Xx3hKIbhjM&vet=12ahUKEwiro4_VmKyHAxUJFFkFHRlhCxQQM3oECDwQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwiro4_VmKyHAxUJFFkFHRlhCxQQM3oECDwQAA"
+      "image": "https://cdn.batitienda.com/baticloud/images/product_picture_ee87b95f8e11437b8adce6dd1be9729a_637984675645159895_0_m.jpg"
     },
     {
       "id": 2,
@@ -52,7 +72,7 @@
       "price": 4500,
       "stock": 20,
       "category": "medicamentos",
-      "image": "https://www.google.com/imgres?q=gasas%20&imgurl=http%3A%2F%2Fwww.veteris.mx%2Fcdn%2Fshop%2Fproducts%2Fgasa-no-esteril-protec-20x24_grande.jpg%3Fv%3D1530224018&imgrefurl=https%3A%2F%2Fwww.veteris.mx%2Fproducts%2Fgasa-no-esteril-medida-10x10-tejido-28-x-24&docid=F6jK8PbpaMJCcM&tbnid=r7Z6Xx3hKIbhjM&vet=12ahUKEwiro4_VmKyHAxUJFFkFHRlhCxQQM3oECDwQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwiro4_VmKyHAxUJFFkFHRlhCxQQM3oECDwQAA"
+      "image": "https://www.tylenol.com.mx/sites/tylenol_mx/files/product-images/tylenol-caja-con-frasco-10-tabletas-980-x-980-px-1.jpg"
     },
     {
       "id": 3,
@@ -60,7 +80,7 @@
       "price": 2500,
       "stock": 16,
       "category": "primeros auxilios",
-      "image": "https://www.google.com/imgres?q=gasas%20&imgurl=http%3A%2F%2Fwww.veteris.mx%2Fcdn%2Fshop%2Fproducts%2Fgasa-no-esteril-protec-20x24_grande.jpg%3Fv%3D1530224018&imgrefurl=https%3A%2F%2Fwww.veteris.mx%2Fproducts%2Fgasa-no-esteril-medida-10x10-tejido-28-x-24&docid=F6jK8PbpaMJCcM&tbnid=r7Z6Xx3hKIbhjM&vet=12ahUKEwiro4_VmKyHAxUJFFkFHRlhCxQQM3oECDwQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwiro4_VmKyHAxUJFFkFHRlhCxQQM3oECDwQAA"
+      "image": "https://quimisur.com.ar/wp-content/uploads/2020/10/AlcoholEth96Porta-1.jpg"
     },
     {
       "id": 4,
@@ -68,7 +88,7 @@
       "price": 8500,
       "stock": 5,
       "category": "cuidado personal",
-      "image": "https://www.google.com/imgres?q=gasas%20&imgurl=http%3A%2F%2Fwww.veteris.mx%2Fcdn%2Fshop%2Fproducts%2Fgasa-no-esteril-protec-20x24_grande.jpg%3Fv%3D1530224018&imgrefurl=https%3A%2F%2Fwww.veteris.mx%2Fproducts%2Fgasa-no-esteril-medida-10x10-tejido-28-x-24&docid=F6jK8PbpaMJCcM&tbnid=r7Z6Xx3hKIbhjM&vet=12ahUKEwiro4_VmKyHAxUJFFkFHRlhCxQQM3oECDwQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwiro4_VmKyHAxUJFFkFHRlhCxQQM3oECDwQAA"
+      "image": "https://m.media-amazon.com/images/I/51nUgTSDqzL._AC_UF1000,1000_QL80_.jpg"
     },
     {
       "id": 5,
@@ -76,7 +96,7 @@
       "price": 4000,
       "stock": 10,
       "category": "cuidado personal",
-      "image": "https://www.google.com/imgres?q=gasas%20&imgurl=http%3A%2F%2Fwww.veteris.mx%2Fcdn%2Fshop%2Fproducts%2Fgasa-no-esteril-protec-20x24_grande.jpg%3Fv%3D1530224018&imgrefurl=https%3A%2F%2Fwww.veteris.mx%2Fproducts%2Fgasa-no-esteril-medida-10x10-tejido-28-x-24&docid=F6jK8PbpaMJCcM&tbnid=r7Z6Xx3hKIbhjM&vet=12ahUKEwiro4_VmKyHAxUJFFkFHRlhCxQQM3oECDwQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwiro4_VmKyHAxUJFFkFHRlhCxQQM3oECDwQAA"
+      "image": "https://www.farmacialeloir.com.ar/img/articulos/2021/09/garnier_skin_active_agua_micelar_imagen1.jpg"
     },
     {
       "id": 6,
@@ -84,7 +104,7 @@
       "price": 3700,
       "stock": 20,
       "category": "cuidado personal",
-      "image": "https://www.google.com/imgres?q=gasas%20&imgurl=http%3A%2F%2Fwww.veteris.mx%2Fcdn%2Fshop%2Fproducts%2Fgasa-no-esteril-protec-20x24_grande.jpg%3Fv%3D1530224018&imgrefurl=https%3A%2F%2Fwww.veteris.mx%2Fproducts%2Fgasa-no-esteril-medida-10x10-tejido-28-x-24&docid=F6jK8PbpaMJCcM&tbnid=r7Z6Xx3hKIbhjM&vet=12ahUKEwiro4_VmKyHAxUJFFkFHRlhCxQQM3oECDwQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwiro4_VmKyHAxUJFFkFHRlhCxQQM3oECDwQAA"
+      "image": "https://perfugroupar.vtexassets.com/arquivos/ids/189339-800-auto?v=638222671056700000&width=800&height=auto&aspect=true"
     },
     {
       "id": 7,
@@ -92,7 +112,7 @@
       "price": 2800,
       "stock": 7,
       "category": "cuidado personal",
-      "image": "https://www.google.com/imgres?q=gasas%20&imgurl=http%3A%2F%2Fwww.veteris.mx%2Fcdn%2Fshop%2Fproducts%2Fgasa-no-esteril-protec-20x24_grande.jpg%3Fv%3D1530224018&imgrefurl=https%3A%2F%2Fwww.veteris.mx%2Fproducts%2Fgasa-no-esteril-medida-10x10-tejido-28-x-24&docid=F6jK8PbpaMJCcM&tbnid=r7Z6Xx3hKIbhjM&vet=12ahUKEwiro4_VmKyHAxUJFFkFHRlhCxQQM3oECDwQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwiro4_VmKyHAxUJFFkFHRlhCxQQM3oECDwQAA"
+      "image": "https://elbloquear.vtexassets.com/arquivos/ids/159673-800-auto?v=637870979218100000&width=800&height=auto&aspect=true"
     }
   ]
 }
