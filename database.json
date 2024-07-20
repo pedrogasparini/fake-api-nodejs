@@ -33,6 +33,7 @@
       "lastName": "Perez",
       "username": "juanperez",
       "password": "j123",
+      "userType": "admin",
       "createdAt": 1721324918485,
       "modifiedAt": 1721324918485
     },
@@ -273,6 +274,30 @@
       "createdAt": 1721505998615,
       "modifiedAt": 1721505998615,
       "id": 7
+    },
+    {
+      "items": [
+        {
+          "id": 2,
+          "name": "Paracetamol",
+          "price": 4500,
+          "stock": 20,
+          "category": "medicamentos",
+          "image": "https://www.tylenol.com.mx/sites/tylenol_mx/files/product-images/tylenol-caja-con-frasco-10-tabletas-980-x-980-px-1.jpg"
+        },
+        {
+          "id": 1,
+          "name": "Gasas",
+          "price": 3000,
+          "stock": 40,
+          "category": "primeros auxilios",
+          "image": "https://cdn.batitienda.com/baticloud/images/product_picture_ee87b95f8e11437b8adce6dd1be9729a_637984675645159895_0_m.jpg"
+        }
+      ],
+      "total": 7500,
+      "createdAt": 1721506406034,
+      "modifiedAt": 1721506406034,
+      "id": 8
     }
   ],
   "cart": []
