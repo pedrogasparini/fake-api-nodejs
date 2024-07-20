@@ -55,6 +55,8 @@ app.use(
   })
 );
 
+
+
 // Init graphql
 app.use('/graphql', graphqlHTTP({ schema, rootValue: setupRootValue(db), graphiql: true }));
 

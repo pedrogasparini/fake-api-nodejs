@@ -114,5 +114,166 @@
       "category": "cuidado personal",
       "image": "https://elbloquear.vtexassets.com/arquivos/ids/159673-800-auto?v=637870979218100000&width=800&height=auto&aspect=true"
     }
-  ]
+  ],
+  "purchases": [
+    {
+      "id": 1,
+      "userId": 1,
+      "productId": 2,
+      "quantity": 3
+    },
+    {
+      "items": [
+        {
+          "id": 2,
+          "name": "Paracetamol",
+          "price": 4500,
+          "stock": 20,
+          "category": "medicamentos",
+          "image": "https://www.tylenol.com.mx/sites/tylenol_mx/files/product-images/tylenol-caja-con-frasco-10-tabletas-980-x-980-px-1.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Alcohol etilico",
+          "price": 2500,
+          "stock": 16,
+          "category": "primeros auxilios",
+          "image": "https://quimisur.com.ar/wp-content/uploads/2020/10/AlcoholEth96Porta-1.jpg"
+        }
+      ],
+      "total": 7000,
+      "createdAt": 1721501457348,
+      "modifiedAt": 1721501457348,
+      "id": 2
+    },
+    {
+      "items": [
+        {
+          "id": 1,
+          "name": "Gasas",
+          "price": 3000,
+          "stock": 40,
+          "category": "primeros auxilios",
+          "image": "https://cdn.batitienda.com/baticloud/images/product_picture_ee87b95f8e11437b8adce6dd1be9729a_637984675645159895_0_m.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Paracetamol",
+          "price": 4500,
+          "stock": 20,
+          "category": "medicamentos",
+          "image": "https://www.tylenol.com.mx/sites/tylenol_mx/files/product-images/tylenol-caja-con-frasco-10-tabletas-980-x-980-px-1.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Alcohol etilico",
+          "price": 2500,
+          "stock": 16,
+          "category": "primeros auxilios",
+          "image": "https://quimisur.com.ar/wp-content/uploads/2020/10/AlcoholEth96Porta-1.jpg"
+        }
+      ],
+      "total": 10000,
+      "createdAt": 1721501486707,
+      "modifiedAt": 1721501486707,
+      "id": 3
+    },
+    {
+      "items": [
+        {
+          "id": 3,
+          "name": "Alcohol etilico",
+          "price": 2500,
+          "stock": 16,
+          "category": "primeros auxilios",
+          "image": "https://quimisur.com.ar/wp-content/uploads/2020/10/AlcoholEth96Porta-1.jpg"
+        }
+      ],
+      "total": 2500,
+      "createdAt": 1721501527883,
+      "modifiedAt": 1721501527883,
+      "id": 4
+    },
+    {
+      "items": [
+        {
+          "id": 2,
+          "name": "Paracetamol",
+          "price": 4500,
+          "stock": 20,
+          "category": "medicamentos",
+          "image": "https://www.tylenol.com.mx/sites/tylenol_mx/files/product-images/tylenol-caja-con-frasco-10-tabletas-980-x-980-px-1.jpg"
+        }
+      ],
+      "total": 4500,
+      "createdAt": 1721501997985,
+      "modifiedAt": 1721501997985,
+      "id": 5
+    },
+    {
+      "items": [
+        {
+          "id": 3,
+          "name": "Alcohol etilico",
+          "price": 2500,
+          "stock": 16,
+          "category": "primeros auxilios",
+          "image": "https://quimisur.com.ar/wp-content/uploads/2020/10/AlcoholEth96Porta-1.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Paracetamol",
+          "price": 4500,
+          "stock": 20,
+          "category": "medicamentos",
+          "image": "https://www.tylenol.com.mx/sites/tylenol_mx/files/product-images/tylenol-caja-con-frasco-10-tabletas-980-x-980-px-1.jpg"
+        }
+      ],
+      "total": 7000,
+      "createdAt": 1721505936790,
+      "modifiedAt": 1721505936790,
+      "id": 6
+    },
+    {
+      "items": [
+        {
+          "id": 4,
+          "name": "Crema hidratante",
+          "price": 8500,
+          "stock": 5,
+          "category": "cuidado personal",
+          "image": "https://m.media-amazon.com/images/I/51nUgTSDqzL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Agua micelar",
+          "price": 4000,
+          "stock": 10,
+          "category": "cuidado personal",
+          "image": "https://www.farmacialeloir.com.ar/img/articulos/2021/09/garnier_skin_active_agua_micelar_imagen1.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Shampoo",
+          "price": 3700,
+          "stock": 20,
+          "category": "cuidado personal",
+          "image": "https://perfugroupar.vtexassets.com/arquivos/ids/189339-800-auto?v=638222671056700000&width=800&height=auto&aspect=true"
+        },
+        {
+          "id": 3,
+          "name": "Alcohol etilico",
+          "price": 2500,
+          "stock": 16,
+          "category": "primeros auxilios",
+          "image": "https://quimisur.com.ar/wp-content/uploads/2020/10/AlcoholEth96Porta-1.jpg"
+        }
+      ],
+      "total": 18700,
+      "createdAt": 1721505998615,
+      "modifiedAt": 1721505998615,
+      "id": 7
+    }
+  ],
+  "cart": []
 }
